@@ -9,16 +9,6 @@
       "boardName": "Sample Board",
       "boardColor": "rgb(0, 121, 191)",
       "id": 2
-    },
-    {
-      "boardName": "s",
-      "boardColor": "rgb(0, 121, 191)",
-      "id": 3
-    },
-    {
-      "boardName": "s",
-      "boardColor": "rgb(0, 121, 191)",
-      "id": 4
     }
   ],
   "card-list": [
@@ -39,18 +29,6 @@
       "listName": "Done",
       "order": 3,
       "id": 3
-    },
-    {
-      "boardId": 4,
-      "listName": "a",
-      "order": 1,
-      "id": 4
-    },
-    {
-      "boardId": 4,
-      "listName": "s",
-      "order": 2,
-      "id": 5
     }
   ],
   "card-detail": [
@@ -63,59 +41,17 @@
     },
     {
       "boardId": 1,
-      "cardListId": 3,
+      "cardListId": 1,
       "cardName": "Card 2 with a very very very very very very very very very very very very very very very long name.",
-      "order": 1,
+      "order": 2,
       "id": 2
     },
     {
       "boardId": 1,
       "cardListId": 1,
       "cardName": "Card 3",
-      "order": 2,
-      "id": 3
-    },
-    {
-      "boardId": 1,
-      "cardListId": 2,
-      "cardName": "Card A",
-      "order": 1,
-      "id": 4
-    },
-    {
-      "boardId": 1,
-      "cardListId": 2,
-      "cardName": "Card B",
-      "order": 2,
-      "id": 5
-    },
-    {
-      "boardId": 1,
-      "cardListId": 2,
-      "cardName": "Card C",
       "order": 3,
-      "id": 6
-    },
-    {
-      "boardId": 1,
-      "cardListId": 2,
-      "cardName": "Card D",
-      "order": 4,
-      "id": 7
-    },
-    {
-      "boardId": 1,
-      "cardListId": 2,
-      "cardName": "Card E",
-      "order": 5,
-      "id": 8
-    },
-    {
-      "boardId": 4,
-      "cardListId": 4,
-      "cardName": "a",
-      "order": 1,
-      "id": 9
+      "id": 3
     }
   ]
 }
